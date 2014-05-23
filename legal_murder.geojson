@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
    "properties": {
-      "fillColor": "#ee0000",
+      "fillColor": "#ff0000",
       "fillOpacity": 0.8
     },                                                                                
 "features": [
